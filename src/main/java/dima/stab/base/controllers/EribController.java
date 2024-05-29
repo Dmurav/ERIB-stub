@@ -1,5 +1,10 @@
-package dima.stab.base;
+package dima.stab.base.controllers;
 
+import dima.stab.base.domains.EribSetTimeResponse;
+import dima.stab.base.domains.EribExecResponse;
+import dima.stab.base.domains.EribGetResponse;
+import dima.stab.base.domains.EribRollbackResponse;
+import dima.stab.base.domains.EribSetStatusResponse;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

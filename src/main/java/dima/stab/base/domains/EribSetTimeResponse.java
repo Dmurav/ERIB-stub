@@ -1,4 +1,4 @@
-package dima.stab.base;
+package dima.stab.base.domains;
 
 import java.util.Map;
 

@@ -1,5 +1,0 @@
-http://localhost:13666/ERIBRouter/erib/limits/setstatus?status=false
-http://localhost:13666/ERIBRouter/erib/limits/settime?time=25000
-http://localhost:13666/ERIBRouter/erib/limits/rollback/v1
-http://localhost:13666/ERIBRouter/erib/limits/get
-http://localhost:13666/ERIBRouter/erib/limits/exec/v1
